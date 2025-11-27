@@ -1,0 +1,2 @@
+# C-digo-para-la-determinaci-n-de-zonas-de-riesgo-de-incendio-forestal
+Este código ha sido desarrollado con la intención de establecer mediante análisis multivariado, las variables que permitan establecer mediante regresión logística, las zonas de riesgo de incendio potencial, espero pueda beneficiarles y ser mejorado, muchas gracias de antemano por sumarse al esfuerzo de proteger nuestros recursos naturales.
